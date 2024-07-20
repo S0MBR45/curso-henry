@@ -1,2 +1,3 @@
 # curso-henry
-este es un repositorio del segundo curso de henry
+edwin
+esto es una prueba de como crear un repositorio y clonarlo desdegit hub hasta mi escritorio local
